@@ -1,0 +1,25 @@
+.container-movies {
+  padding: 20px;
+}
+.container-movies h1 {
+  font-size: 24px;
+  color: white;
+  font-weight: 700px;
+  margin-bottom: 30px;
+}
+
+.container-movies p {
+  font-size: 18px;
+  color: white;
+  font-weight: 700px;
+}
+
+@media (min-width: 1200px) {
+  .container-movies h1 {
+    font-size: 48px;
+  }
+
+  .container-movies p {
+    font-size: 24px;
+  }
+}
